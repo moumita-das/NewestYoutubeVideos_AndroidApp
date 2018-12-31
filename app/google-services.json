@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "666006270742",
+    "firebase_url": "https://newestvideos-84444.firebaseio.com",
+    "project_id": "newestvideos-84444",
+    "storage_bucket": "newestvideos-84444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666006270742:android:cfdc8c118a91beb5",
+        "android_client_info": {
+          "package_name": "com.example.brahma.newestyoutubevideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666006270742-oqm3v29o21kaqhpp2aukff1c2qgoh7cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBelHFwAqEcCvFOz019-xaIfNGRUoh62g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
